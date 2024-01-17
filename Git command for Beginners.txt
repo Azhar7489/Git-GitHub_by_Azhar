@@ -1,5 +1,5 @@
 # command name                          category [category] [category]
-
+git remote add origin <link>            link to git
 git-add                                 mainporcelain           worktree
 git-am                                  mainporcelain
 git-annotate                            ancillaryinterrogators
