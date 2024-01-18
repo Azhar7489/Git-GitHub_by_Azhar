@@ -185,3 +185,5 @@ gittutorial-2                           guide
 gitweb                                  ancillaryinterrogators
 gitworkflows                            guide
 scalar                                  mainporcelain
+
+This Update is created for showing fetch command workability
